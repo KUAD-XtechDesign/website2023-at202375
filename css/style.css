@@ -11,7 +11,7 @@
 html,
 body {
   font-feature-settings: "palt";
-  background-color: #fff;
+  background-color: #ffffff;
   position: relative;
 }
 
@@ -201,9 +201,10 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 ================================================= */
 .top_eye_catch {
   height: 500px;
-  color: #fff;
+  color: #ffffff;
   font-weight: bold;
-  background-image: url(../images/top.jpg);/* 背景画像 */
+  font-size: 30px;
+  background-image: url(..//images/PXL_20230526_094200819.jpg);/* 背景画像 */
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
   background-position: center center;/* 背景画像の位置 */
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
@@ -313,7 +314,7 @@ reportページ
 
 .report_eye_catch {
   height: 300px;
-  background-image: url(../images/report.jpg);
+  background-image: url(../images/.jpg);
   background-size: cover;
   background-position: center center;
   display: flex;
