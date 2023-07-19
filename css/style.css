@@ -401,3 +401,15 @@ profileページ
 .mb_m {
   margin-bottom: 20px;
 }
+
+
+.slick-initialized .slick-slide{
+  aspect-ratio: 1;
+}
+
+.slick-initialized .slick-slide > div{
+  background-color: #333333;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
